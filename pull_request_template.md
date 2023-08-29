@@ -9,6 +9,7 @@ Closes # <!-- Issue # here -->
 - [ ] env 변경 존재
 - [ ] node 의존성 추가
 - [ ] 커밋이 한글인지
+- [ ] Docker 컨테이너 추가
 
 ## PR Type
 What kind of change does this PR introduce?
